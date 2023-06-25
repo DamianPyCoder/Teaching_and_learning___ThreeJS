@@ -1,5 +1,5 @@
 {
-  "name": "three_curso",
+  "name": "THREE_CURSO",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.153.0"
+    "three": "^0.117.1"
   }
 }
